@@ -1,0 +1,16 @@
+{
+  "name": "mern-recipe-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Recipe Management",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
